@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Exception</key>
+	<string>(text CONTAINS[cd] " 	at " AND text CONTAINS[cd] "(" AND (text CONTAINS[cd] "native method" OR text CONTAINS[cd] ".java")) OR (text CONTAINS[cd] "Exception" OR text CONTAINS[cd] "Throwable" OR text CONTAINS[cd] "Error:")</string>
+</dict>
+</plist>
