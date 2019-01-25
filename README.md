@@ -1,3 +1,6 @@
+![LogRabbit Logo](http://lograbbit.com/assets/images/rabbit.svg  | width=64)
+
+
 # Log Rabbit Public Filters
 
 This is a place to view and share LogRabbit public filters. If you have a LogRabbit filter that you feel would be helpful to others please create a Pull Request or share it as an issue.
