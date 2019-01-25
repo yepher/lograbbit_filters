@@ -12,6 +12,13 @@ This is a place to view and share LogRabbit public filters. If you have a LogRab
 | [JsonMessage](filters/JsonMessage.filters) | List messages that look like JSON [video](https://www.youtube.com/watch?v=HeildKynnuc) |
 
 
+## Tags
+
+| Name | Description | 
+|---|---|
+| [StrictMode](filters/StrictMode.filters) | Filter Strict Mode Messages |
+
+
 ## Log Levels
 
 | Name | Description | 
