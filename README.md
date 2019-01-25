@@ -1,9 +1,14 @@
-![LogRabbit Logo](http://lograbbit.com/assets/images/rabbit.svg  | width=64)
+<a href="http://lograbbit.com/"><img src="http://lograbbit.com/assets/images/rabbit.svg"  width=64></a>
 
+## Welcome to LogRabbit
 
-# Log Rabbit Public Filters
+This site is for community shared LogRabbit filters. LogRabbit is an Android logcat viewer for Mac. To learn more visit [LogRabbit.com](http://lograbbit.com) or visit the [Mac App Store](https://itunes.apple.com/us/app/lograbbit/id930220329?mt=12&uo=4).
 
-This is a place to view and share LogRabbit public filters. If you have a LogRabbit filter that you feel would be helpful to others please create a Pull Request or share it as an issue.
+# Log Rabbit Shared Filters
+
+This is a place to view and share LogRabbit filters and ideas. If you have a LogRabbit filter or idea that you would like to share create a Pull Request or open an issue and describe/attach filter and I will merge it in.
+
+For general LogRabbit tips have a look at the [LogRabbit Playlist](https://www.youtube.com/playlist?list=PLZVr2R6DumNZUoMZRndqM7cL63gp2NTYE) on YouTube.
 
 
 ## Message Content
